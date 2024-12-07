@@ -10,7 +10,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^4.2.4"
   },
-  "homepage": "https://xjia5036.github.io/Self-learning-project",
+  "homepage": "https://xjia5036.github.io/Self-learning-project/todo-app/",
   "scripts": {
     
     "start": "react-scripts start",
