@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Self-learning-project/static/css/main.a3706ceb.css",
-    "main.js": "/Self-learning-project/static/js/main.c0346390.js",
-    "static/js/488.6b354897.chunk.js": "/Self-learning-project/static/js/488.6b354897.chunk.js",
-    "index.html": "/Self-learning-project/index.html",
-    "main.a3706ceb.css.map": "/Self-learning-project/static/css/main.a3706ceb.css.map",
-    "main.c0346390.js.map": "/Self-learning-project/static/js/main.c0346390.js.map",
-    "488.6b354897.chunk.js.map": "/Self-learning-project/static/js/488.6b354897.chunk.js.map"
+    "main.css": "/Self-learning-project/todo-app/static/css/main.a3706ceb.css",
+    "main.js": "/Self-learning-project/todo-app/static/js/main.f8303eb4.js",
+    "static/js/488.6b354897.chunk.js": "/Self-learning-project/todo-app/static/js/488.6b354897.chunk.js",
+    "index.html": "/Self-learning-project/todo-app/index.html",
+    "main.a3706ceb.css.map": "/Self-learning-project/todo-app/static/css/main.a3706ceb.css.map",
+    "main.f8303eb4.js.map": "/Self-learning-project/todo-app/static/js/main.f8303eb4.js.map",
+    "488.6b354897.chunk.js.map": "/Self-learning-project/todo-app/static/js/488.6b354897.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a3706ceb.css",
-    "static/js/main.c0346390.js"
+    "static/js/main.f8303eb4.js"
   ]
 }
